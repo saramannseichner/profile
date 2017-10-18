@@ -77,6 +77,10 @@ ul {
  list-style: none;
 }
 
+a {
+  color: #9FA8A3;
+}
+
 a:hover {
   color: rgba(0,0,0,0.5);
 }
